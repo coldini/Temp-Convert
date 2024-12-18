@@ -1,0 +1,47 @@
+Script started on 2023-09-17 12:03:13-04:00 [TERM="xterm" TTY="/dev/pts/2" COLUMNS="80" LINES="24"]
+[?2004h]0;tur26337@cis-lclient11: ~/lab3tur26337@cis-lclient11:~/lab3$ [K]0;tur26337@cis-lclient11: ~/lab3tur26337@cis-lclient11:~/lab3$ ./a.out
+[?2004lEnter the depth in kilometers 40
+420.000 degrees celsius at the depth. 
+This temperature in farenheiht is 788.000 . 
+[?2004h]0;tur26337@cis-lclient11: ~/lab3tur26337@cis-lclient11:~/lab3$ ./a.out
+[?2004lEnter the depth in kilometers 58
+600.000 degrees celsius at the depth. 
+This temperature in farenheiht is 1112.000 . 
+[?2004h]0;tur26337@cis-lclient11: ~/lab3tur26337@cis-lclient11:~/lab3$ ./a.out
+[?2004lEnter the depth in kilometers0  0
+20.000 degrees celsius at the depth. 
+This temperature in farenheiht is 68.000 . 
+[?2004h]0;tur26337@cis-lclient11: ~/lab3tur26337@cis-lclient11:~/lab3$ ./a.out
+[?2004lEnter the depth in kilometers./a,.  .out 54
+20.000 degrees celsius at the depth. 
+This temperature in farenheiht is 68.000 . 
+[?2004h]0;tur26337@cis-lclient11: ~/lab3tur26337@cis-lclient11:~/lab3$ ./a.out 30
+[?2004lEnter the depth in kilometers30
+320.000 degrees celsius at the depth. 
+This temperature in farenheiht is 608.000 . 
+[?2004h]0;tur26337@cis-lclient11: ~/lab3tur26337@cis-lclient11:~/lab3$ ./a.out
+[?2004lEnter the depth in kilometers-30
+-280.000 degrees celsius at the depth. 
+This temperature in farenheiht is -472.000 . 
+[?2004h]0;tur26337@cis-lclient11: ~/lab3tur26337@cis-lclient11:~/lab3$ end script
+[?2004lCommand 'end' not found, did you mean:
+  command 'gnd' from snap gnd (master)
+  command 'eid' from deb id-utils (4.6.28-20200521ss15dab)
+  command 'snd' from deb snd-gui-jack (22.1-1)
+  command 'snd' from deb snd-gui-pulse (22.1-1)
+  command 'snd' from deb snd-nox (22.1-1)
+  command 'env' from deb coreutils (8.32-4.1ubuntu1)
+  command 'bnd' from deb bnd (5.0.1-3)
+  command 'emd' from deb emd (1.0.1-2)
+  command 'nd' from deb nd (0.8.2-8build1)
+  command 'send' from deb mailutils-mh (1:3.14-1)
+  command 'send' from deb mmh (0.4-4)
+  command 'send' from deb nmh (1.7.1-11)
+  command 'and' from deb and (1.2.2-4.2)
+  command 'ed' from deb ed (1.18-1)
+  command 'ent' from deb ent (1.2debian-3)
+See 'snap info <snapname>' for additional versions.
+[?2004h]0;tur26337@cis-lclient11: ~/lab3tur26337@cis-lclient11:~/lab3$ exit
+[?2004lexit
+
+Script done on 2023-09-17 12:05:12-04:00 [COMMAND_EXIT_CODE="127"]
